@@ -1,0 +1,301 @@
+time_block,timestamp,location,decibel_level,type,zone_type
+Morning,3/25/2026 9:02,Albin O. Kuhn Library,46.6,Indoor,Quiet
+Morning,3/25/2026 9:04,ITE Building,70,Indoor,Moderate
+Morning,3/25/2026 9:09,Outside Retriever Activities Center,67.6,Outdoor,Moderate
+Morning,3/25/2026 9:09,Albin O. Kuhn Library,59.9,Indoor,Moderate
+Morning,3/25/2026 9:18,Commons,50,Indoor,Moderate
+Morning,3/25/2026 9:20,Outside Retriever Activities Center,70,Outdoor,Moderate
+Morning,3/25/2026 9:21,Albin O. Kuhn Library,50,Indoor,Moderate
+Morning,3/25/2026 9:28,Albin O. Kuhn Library,66.5,Indoor,Moderate
+Morning,3/25/2026 9:31,Commons,62.6,Indoor,Moderate
+Morning,3/25/2026 9:48,ITE Building,70,Indoor,Moderate
+Morning,3/25/2026 9:52,University Center,56.9,Indoor,Moderate
+Morning,3/25/2026 9:55,Outside Retriever Activities Center,69.5,Outdoor,Moderate
+Morning,3/25/2026 9:56,Albin O. Kuhn Library,69.3,Indoor,Moderate
+Morning,3/25/2026 9:58,Albin O. Kuhn Library,69.2,Indoor,Moderate
+Morning,3/25/2026 9:58,ITE Building,65.8,Indoor,Moderate
+Morning,3/25/2026 10:01,University Center,63.3,Indoor,Moderate
+Morning,3/25/2026 10:06,ITE Building,60.4,Indoor,Moderate
+Morning,3/25/2026 10:09,Commons,50,Indoor,Moderate
+Morning,3/25/2026 10:09,Albin O. Kuhn Library,52,Indoor,Moderate
+Morning,3/25/2026 10:11,Albin O. Kuhn Library,68.1,Indoor,Moderate
+Morning,3/25/2026 10:13,Albin O. Kuhn Library,50.1,Indoor,Moderate
+Morning,3/25/2026 10:21,University Center,50.2,Indoor,Moderate
+Morning,3/25/2026 10:22,Outside Retriever Activities Center,52.4,Outdoor,Moderate
+Morning,3/25/2026 10:27,Outside Retriever Activities Center,70,Outdoor,Moderate
+Morning,3/25/2026 10:27,Albin O. Kuhn Library,66.2,Indoor,Moderate
+Morning,3/25/2026 10:35,Commons,50,Indoor,Moderate
+Morning,3/25/2026 10:40,ITE Building,66.6,Indoor,Moderate
+Morning,3/25/2026 10:44,Commons,57.7,Indoor,Moderate
+Morning,3/25/2026 10:44,Commons,60.7,Indoor,Moderate
+Morning,3/25/2026 10:45,Albin O. Kuhn Library,50,Indoor,Moderate
+Morning,3/25/2026 10:53,Albin O. Kuhn Library,58.5,Indoor,Moderate
+Morning,3/25/2026 10:53,Outside Retriever Activities Center,67.1,Outdoor,Moderate
+Morning,3/25/2026 11:02,University Center,50,Indoor,Moderate
+Morning,3/25/2026 11:03,University Center,50,Indoor,Moderate
+Morning,3/25/2026 11:04,ITE Building,62.2,Indoor,Moderate
+Morning,3/25/2026 11:05,Commons,50,Outdoor,Moderate
+Morning,3/25/2026 11:09,Commons,70,Outdoor,Moderate
+Morning,3/25/2026 11:12,ITE Building,70,Indoor,Moderate
+Morning,3/25/2026 11:13,University Center,63.1,Indoor,Moderate
+Morning,3/25/2026 11:18,Albin O. Kuhn Library,50,Indoor,Moderate
+Morning,3/25/2026 11:26,ITE Building,60.2,Indoor,Moderate
+Morning,3/25/2026 11:31,Outside Retriever Activities Center,60.7,Outdoor,Moderate
+Morning,3/25/2026 11:32,Albin O. Kuhn Library,54.2,Indoor,Moderate
+Morning,3/25/2026 11:35,University Center,51.5,Indoor,Moderate
+Morning,3/25/2026 11:35,Outside Retriever Activities Center,70,Outdoor,Moderate
+Morning,3/25/2026 11:41,Albin O. Kuhn Library,70,Indoor,Moderate
+Morning,3/25/2026 11:46,University Center,70,Indoor,Moderate
+Morning,3/25/2026 11:48,University Center,50,Indoor,Moderate
+Morning,3/25/2026 11:49,Albin O. Kuhn Library,55,Indoor,Quiet
+Morning,3/25/2026 11:57,Commons,51.3,Indoor,Quiet
+Morning,3/25/2026 11:57,Commons,55,Indoor,Quiet
+Afternoon,3/25/2026 13:03,Commons,49.1,Indoor,Quiet
+Afternoon,3/25/2026 13:05,Albin O. Kuhn Library,49.8,Indoor,Quiet
+Afternoon,3/25/2026 13:07,Albin O. Kuhn Library,55,Indoor,Quiet
+Afternoon,3/25/2026 13:09,Albin O. Kuhn Library,44.1,Indoor,Quiet
+Afternoon,3/25/2026 13:12,Albin O. Kuhn Library,55,Indoor,Quiet
+Afternoon,3/25/2026 13:13,ITE Building,48,Indoor,Quiet
+Afternoon,3/25/2026 13:15,ITE Building,55,Indoor,Quiet
+Afternoon,3/25/2026 13:19,Commons,51.6,Indoor,Quiet
+Afternoon,3/25/2026 13:23,Commons,55,Indoor,Quiet
+Afternoon,3/25/2026 13:23,Albin O. Kuhn Library,54.5,Indoor,Quiet
+Afternoon,3/25/2026 13:25,ITE Building,55,Indoor,Quiet
+Afternoon,3/25/2026 13:32,ITE Building,51.7,Indoor,Quiet
+Afternoon,3/25/2026 13:33,Albin O. Kuhn Library,40.3,Indoor,Quiet
+Afternoon,3/25/2026 13:36,Albin O. Kuhn Library,55,Indoor,Quiet
+Afternoon,3/25/2026 13:39,ITE Building,45.8,Indoor,Quiet
+Afternoon,3/25/2026 13:40,ITE Building,46.1,Indoor,Quiet
+Afternoon,3/25/2026 13:40,University Center,61.6,Indoor,Moderate
+Afternoon,3/25/2026 13:42,Commons,55,Outdoor,Quiet
+Afternoon,3/25/2026 13:42,ITE Building,53,Indoor,Quiet
+Afternoon,3/25/2026 13:44,Commons,55,Indoor,Quiet
+Afternoon,3/25/2026 13:47,University Center,50.2,Outdoor,Quiet
+Afternoon,3/25/2026 13:50,Outside Retriever Activities Center,55,Outdoor,Quiet
+Afternoon,3/25/2026 13:52,University Center,51.3,Indoor,Quiet
+Afternoon,3/25/2026 13:55,Commons,55,Outdoor,Quiet
+Afternoon,3/25/2026 14:02,University Center,55,Outdoor,Quiet
+Afternoon,3/25/2026 14:07,University Center,43.4,Outdoor,Quiet
+Afternoon,3/25/2026 14:07,Albin O. Kuhn Library,49.9,Indoor,Quiet
+Afternoon,3/25/2026 14:13,ITE Building,55,Indoor,Quiet
+Afternoon,3/25/2026 14:19,Albin O. Kuhn Library,49.9,Indoor,Quiet
+Afternoon,3/25/2026 14:21,Albin O. Kuhn Library,47.6,Indoor,Quiet
+Afternoon,3/25/2026 14:21,University Center,55,Outdoor,Quiet
+Afternoon,3/25/2026 14:33,Albin O. Kuhn Library,53.4,Indoor,Quiet
+Afternoon,3/25/2026 14:38,Commons,55,Outdoor,Quiet
+Afternoon,3/25/2026 14:42,Commons,55,Indoor,Quiet
+Afternoon,3/25/2026 14:55,Commons,55,Outdoor,Quiet
+Afternoon,3/25/2026 15:05,Albin O. Kuhn Library,48.6,Indoor,Quiet
+Afternoon,3/25/2026 15:06,ITE Building,55,Indoor,Quiet
+Afternoon,3/25/2026 15:07,Commons,46.4,Indoor,Quiet
+Afternoon,3/25/2026 15:07,ITE Building,55,Indoor,Quiet
+Afternoon,3/25/2026 15:11,Commons,55,Indoor,Quiet
+Afternoon,3/25/2026 15:13,Albin O. Kuhn Library,55,Indoor,Quiet
+Afternoon,3/25/2026 15:17,ITE Building,46.1,Indoor,Quiet
+Afternoon,3/25/2026 15:17,University Center,52.3,Indoor,Quiet
+Afternoon,3/25/2026 15:25,University Center,38.2,Outdoor,Quiet
+Afternoon,3/25/2026 15:26,Albin O. Kuhn Library,35,Indoor,Quiet
+Afternoon,3/25/2026 15:27,University Center,53,Indoor,Quiet
+Afternoon,3/25/2026 15:27,Commons,44.8,Indoor,Quiet
+Afternoon,3/25/2026 15:33,Commons,55,Indoor,Quiet
+Afternoon,3/25/2026 15:35,Outside Retriever Activities Center,55,Outdoor,Quiet
+Afternoon,3/25/2026 15:38,Outside Retriever Activities Center,44,Outdoor,Quiet
+Afternoon,3/25/2026 15:44,Albin O. Kuhn Library,55,Indoor,Quiet
+Afternoon,3/25/2026 15:45,University Center,35,Indoor,Quiet
+Afternoon,3/25/2026 15:45,Outside Retriever Activities Center,55,Outdoor,Quiet
+Afternoon,3/25/2026 15:48,Albin O. Kuhn Library,45.8,Indoor,Quiet
+Afternoon,3/25/2026 15:54,Albin O. Kuhn Library,35,Indoor,Quiet
+Afternoon,3/25/2026 15:54,ITE Building,42.5,Indoor,Quiet
+Afternoon,3/25/2026 15:56,University Center,42,Indoor,Quiet
+Afternoon,3/25/2026 15:57,Commons,69.9,Indoor,Moderate
+Afternoon,3/25/2026 15:58,Outside Retriever Activities Center,71.6,Outdoor,Loud
+Morning,3/26/2026 9:00,ITE Building,66.9,Indoor,Loud
+Morning,3/26/2026 9:05,Commons,88,Indoor,Loud
+Morning,3/26/2026 9:10,University Center,80.7,Indoor,Loud
+Morning,3/26/2026 9:12,ITE Building,65,Indoor,Loud
+Morning,3/26/2026 9:12,Commons,88,Indoor,Loud
+Morning,3/26/2026 9:13,Outside Retriever Activities Center,65,Outdoor,Loud
+Morning,3/26/2026 9:14,Albin O. Kuhn Library,65,Indoor,Loud
+Morning,3/26/2026 9:17,Albin O. Kuhn Library,65.1,Indoor,Loud
+Morning,3/26/2026 9:18,ITE Building,66.3,Indoor,Loud
+Morning,3/26/2026 9:18,Albin O. Kuhn Library,80.8,Indoor,Loud
+Morning,3/26/2026 9:20,ITE Building,76.8,Indoor,Loud
+Morning,3/26/2026 9:34,Albin O. Kuhn Library,65,Indoor,Loud
+Morning,3/26/2026 9:41,Commons,86.4,Indoor,Loud
+Morning,3/26/2026 9:47,ITE Building,65,Indoor,Loud
+Morning,3/26/2026 9:52,Commons,65.5,Indoor,Loud
+Morning,3/26/2026 9:55,ITE Building,74.4,Indoor,Loud
+Morning,3/26/2026 9:55,University Center,71.5,Indoor,Loud
+Morning,3/26/2026 10:01,Commons,72.9,Indoor,Loud
+Morning,3/26/2026 10:15,Commons,65,Indoor,Loud
+Morning,3/26/2026 10:21,ITE Building,73.1,Indoor,Loud
+Morning,3/26/2026 10:25,Commons,76.1,Outdoor,Loud
+Morning,3/26/2026 10:28,Outside Retriever Activities Center,76.9,Outdoor,Loud
+Morning,3/26/2026 10:31,ITE Building,76.4,Indoor,Loud
+Morning,3/26/2026 10:32,University Center,85.8,Outdoor,Loud
+Morning,3/26/2026 10:44,ITE Building,65,Indoor,Loud
+Morning,3/26/2026 10:46,Commons,65.4,Indoor,Loud
+Morning,3/26/2026 10:51,Outside Retriever Activities Center,81.5,Outdoor,Loud
+Morning,3/26/2026 10:55,ITE Building,65,Indoor,Loud
+Morning,3/26/2026 10:55,Albin O. Kuhn Library,75.9,Indoor,Loud
+Morning,3/26/2026 10:58,Commons,68.6,Indoor,Loud
+Morning,3/26/2026 11:00,ITE Building,66.4,Indoor,Moderate
+Morning,3/26/2026 11:00,ITE Building,70.2,Indoor,Loud
+Morning,3/26/2026 11:13,Outside Retriever Activities Center,74.8,Outdoor,Loud
+Morning,3/26/2026 11:15,ITE Building,85.1,Indoor,Loud
+Morning,3/26/2026 11:16,ITE Building,66,Indoor,Loud
+Morning,3/26/2026 11:19,University Center,79.7,Indoor,Loud
+Morning,3/26/2026 11:20,University Center,77,Outdoor,Loud
+Morning,3/26/2026 11:24,ITE Building,66.9,Indoor,Loud
+Morning,3/26/2026 11:26,ITE Building,76.6,Indoor,Loud
+Morning,3/26/2026 11:31,Commons,80.6,Indoor,Loud
+Morning,3/26/2026 11:34,Albin O. Kuhn Library,65,Indoor,Loud
+Morning,3/26/2026 11:34,Outside Retriever Activities Center,68.5,Outdoor,Loud
+Morning,3/26/2026 11:44,Commons,82.8,Outdoor,Loud
+Morning,3/26/2026 11:44,ITE Building,80.9,Indoor,Loud
+Morning,3/26/2026 11:45,Commons,70,Indoor,Moderate
+Morning,3/26/2026 11:46,Albin O. Kuhn Library,72.4,Indoor,Loud
+Morning,3/26/2026 11:47,University Center,65,Indoor,Loud
+Morning,3/26/2026 11:47,Albin O. Kuhn Library,67.8,Indoor,Loud
+Morning,3/26/2026 11:49,Albin O. Kuhn Library,75,Indoor,Loud
+Morning,3/26/2026 11:55,Albin O. Kuhn Library,65,Indoor,Loud
+Morning,3/26/2026 11:56,Commons,81.2,Indoor,Loud
+Morning,3/26/2026 11:57,Outside Retriever Activities Center,72,Outdoor,Loud
+Morning,3/26/2026 11:58,University Center,72,Indoor,Loud
+Afternoon,3/26/2026 13:00,Commons,70,Indoor,Moderate
+Afternoon,3/26/2026 13:09,ITE Building,70,Indoor,Moderate
+Afternoon,3/26/2026 13:14,University Center,52.7,Indoor,Moderate
+Afternoon,3/26/2026 13:15,Albin O. Kuhn Library,57.7,Indoor,Moderate
+Afternoon,3/26/2026 13:19,Albin O. Kuhn Library,51.3,Indoor,Moderate
+Afternoon,3/26/2026 13:24,University Center,69.2,Outdoor,Moderate
+Afternoon,3/26/2026 13:29,Outside Retriever Activities Center,50.4,Outdoor,Moderate
+Afternoon,3/26/2026 13:33,University Center,62,Indoor,Moderate
+Afternoon,3/26/2026 13:36,ITE Building,62.2,Indoor,Moderate
+Afternoon,3/26/2026 13:39,University Center,70,Indoor,Moderate
+Afternoon,3/26/2026 13:42,Outside Retriever Activities Center,66.4,Outdoor,Moderate
+Afternoon,3/26/2026 13:56,Commons,51.4,Indoor,Moderate
+Afternoon,3/26/2026 13:59,Commons,58.3,Indoor,Moderate
+Afternoon,3/26/2026 14:02,ITE Building,66.4,Indoor,Moderate
+Afternoon,3/26/2026 14:03,Outside Retriever Activities Center,63.9,Outdoor,Moderate
+Afternoon,3/26/2026 14:05,Outside Retriever Activities Center,55,Outdoor,Quiet
+Afternoon,3/26/2026 14:10,Albin O. Kuhn Library,53.1,Indoor,Moderate
+Afternoon,3/26/2026 14:11,Outside Retriever Activities Center,56.9,Outdoor,Moderate
+Afternoon,3/26/2026 14:22,Outside Retriever Activities Center,54,Outdoor,Moderate
+Afternoon,3/26/2026 14:27,ITE Building,62.9,Indoor,Moderate
+Afternoon,3/26/2026 14:32,University Center,50.1,Indoor,Moderate
+Afternoon,3/26/2026 14:36,Albin O. Kuhn Library,52.1,Indoor,Moderate
+Afternoon,3/26/2026 14:41,Albin O. Kuhn Library,50,Indoor,Moderate
+Afternoon,3/26/2026 14:44,University Center,58.3,Outdoor,Moderate
+Afternoon,3/26/2026 14:46,Commons,50,Indoor,Moderate
+Afternoon,3/26/2026 14:48,Albin O. Kuhn Library,57.1,Indoor,Moderate
+Afternoon,3/26/2026 14:52,University Center,59.5,Outdoor,Moderate
+Afternoon,3/26/2026 14:55,Outside Retriever Activities Center,55,Outdoor,Moderate
+Afternoon,3/26/2026 14:57,University Center,55.7,Outdoor,Moderate
+Afternoon,3/26/2026 14:57,Commons,68.4,Indoor,Moderate
+Afternoon,3/26/2026 15:01,Outside Retriever Activities Center,54.3,Outdoor,Moderate
+Afternoon,3/26/2026 15:09,Commons,65.8,Outdoor,Moderate
+Afternoon,3/26/2026 15:09,Commons,64,Outdoor,Moderate
+Afternoon,3/26/2026 15:16,ITE Building,70,Indoor,Moderate
+Afternoon,3/26/2026 15:18,Outside Retriever Activities Center,59.9,Outdoor,Moderate
+Afternoon,3/26/2026 15:24,Commons,70,Outdoor,Moderate
+Afternoon,3/26/2026 15:27,University Center,56,Indoor,Moderate
+Afternoon,3/26/2026 15:29,Albin O. Kuhn Library,63.9,Indoor,Moderate
+Afternoon,3/26/2026 15:30,Outside Retriever Activities Center,50,Outdoor,Moderate
+Afternoon,3/26/2026 15:30,ITE Building,67.8,Indoor,Moderate
+Afternoon,3/26/2026 15:35,Commons,50.9,Indoor,Moderate
+Afternoon,3/26/2026 15:44,Commons,64.4,Indoor,Moderate
+Afternoon,3/26/2026 15:58,University Center,65.8,Indoor,Moderate
+Afternoon,3/26/2026 15:59,Commons,51.8,Indoor,Moderate
+Morning,3/30/2026 9:09,Albin O. Kuhn Library,52,Indoor,Moderate
+Morning,3/30/2026 9:11,Commons,70,Indoor,Moderate
+Morning,3/30/2026 9:14,ITE Building,60.7,Indoor,Moderate
+Morning,3/30/2026 9:14,Albin O. Kuhn Library,50,Indoor,Moderate
+Morning,3/30/2026 9:22,ITE Building,55.3,Indoor,Moderate
+Morning,3/30/2026 9:24,Commons,58.8,Indoor,Moderate
+Morning,3/30/2026 9:28,Albin O. Kuhn Library,55.6,Indoor,Moderate
+Morning,3/30/2026 9:32,Albin O. Kuhn Library,55,Indoor,Quiet
+Morning,3/30/2026 9:33,Albin O. Kuhn Library,35,Indoor,Quiet
+Morning,3/30/2026 9:33,Commons,44,Indoor,Quiet
+Morning,3/30/2026 9:42,Commons,48.9,Indoor,Quiet
+Morning,3/30/2026 9:46,Outside Retriever Activities Center,41.8,Outdoor,Quiet
+Morning,3/30/2026 9:48,University Center,50.2,Outdoor,Quiet
+Morning,3/30/2026 9:50,University Center,48.1,Outdoor,Quiet
+Morning,3/30/2026 9:50,ITE Building,36.8,Indoor,Quiet
+Morning,3/30/2026 9:53,Albin O. Kuhn Library,49.7,Indoor,Quiet
+Morning,3/30/2026 9:58,Outside Retriever Activities Center,46.2,Outdoor,Quiet
+Morning,3/30/2026 9:59,University Center,45.7,Indoor,Quiet
+Morning,3/30/2026 10:05,Outside Retriever Activities Center,49.5,Outdoor,Quiet
+Morning,3/30/2026 10:11,Commons,57.1,Indoor,Moderate
+Morning,3/30/2026 10:14,ITE Building,46.7,Indoor,Quiet
+Morning,3/30/2026 10:18,Albin O. Kuhn Library,35.9,Indoor,Quiet
+Morning,3/30/2026 10:22,Commons,51.9,Outdoor,Quiet
+Morning,3/30/2026 10:26,Commons,42.6,Indoor,Quiet
+Morning,3/30/2026 10:27,ITE Building,49.8,Indoor,Quiet
+Morning,3/30/2026 10:28,Outside Retriever Activities Center,55,Outdoor,Quiet
+Morning,3/30/2026 10:33,ITE Building,54.5,Indoor,Quiet
+Morning,3/30/2026 10:34,Outside Retriever Activities Center,39.5,Outdoor,Quiet
+Morning,3/30/2026 10:34,Albin O. Kuhn Library,35,Indoor,Quiet
+Morning,3/30/2026 10:36,ITE Building,39.7,Indoor,Quiet
+Morning,3/30/2026 10:45,Albin O. Kuhn Library,44.8,Indoor,Quiet
+Morning,3/30/2026 10:47,Commons,47.3,Indoor,Quiet
+Morning,3/30/2026 10:47,Commons,50.9,Indoor,Quiet
+Morning,3/30/2026 10:53,Albin O. Kuhn Library,44.1,Indoor,Quiet
+Morning,3/30/2026 10:59,Albin O. Kuhn Library,36.9,Indoor,Quiet
+Morning,3/30/2026 11:00,University Center,50,Indoor,Moderate
+Morning,3/30/2026 11:11,ITE Building,46.8,Indoor,Quiet
+Morning,3/30/2026 11:12,Albin O. Kuhn Library,35,Indoor,Quiet
+Morning,3/30/2026 11:13,Outside Retriever Activities Center,42.8,Outdoor,Quiet
+Morning,3/30/2026 11:15,Albin O. Kuhn Library,44,Indoor,Quiet
+Morning,3/30/2026 11:16,ITE Building,53.9,Indoor,Quiet
+Morning,3/30/2026 11:17,University Center,53.7,Indoor,Quiet
+Morning,3/30/2026 11:22,ITE Building,45,Indoor,Quiet
+Morning,3/30/2026 11:33,Albin O. Kuhn Library,44.2,Indoor,Quiet
+Morning,3/30/2026 11:36,Outside Retriever Activities Center,44.3,Outdoor,Quiet
+Morning,3/30/2026 11:45,ITE Building,36.6,Indoor,Quiet
+Morning,3/30/2026 11:49,University Center,45.1,Outdoor,Quiet
+Morning,3/30/2026 11:54,University Center,39.8,Indoor,Quiet
+Morning,3/30/2026 11:57,Albin O. Kuhn Library,43.2,Indoor,Quiet
+Afternoon,3/30/2026 13:08,Albin O. Kuhn Library,39.1,Indoor,Quiet
+Afternoon,3/30/2026 13:18,Commons,44.5,Indoor,Quiet
+Afternoon,3/30/2026 13:21,Commons,49.5,Outdoor,Quiet
+Afternoon,3/30/2026 13:22,ITE Building,46.2,Indoor,Quiet
+Afternoon,3/30/2026 13:24,Commons,35,Outdoor,Quiet
+Afternoon,3/30/2026 13:33,Albin O. Kuhn Library,35.4,Indoor,Quiet
+Afternoon,3/30/2026 13:41,University Center,46.1,Indoor,Quiet
+Afternoon,3/30/2026 13:41,Commons,50.9,Indoor,Quiet
+Afternoon,3/30/2026 13:44,Outside Retriever Activities Center,44.2,Outdoor,Quiet
+Afternoon,3/30/2026 13:48,Commons,43.6,Indoor,Quiet
+Afternoon,3/30/2026 13:54,University Center,46.4,Indoor,Quiet
+Afternoon,3/30/2026 13:55,Outside Retriever Activities Center,67.2,Outdoor,Moderate
+Afternoon,3/30/2026 14:01,Albin O. Kuhn Library,70,Indoor,Loud
+Afternoon,3/30/2026 14:09,ITE Building,67.5,Indoor,Moderate
+Afternoon,3/30/2026 14:11,Albin O. Kuhn Library,45.7,Indoor,Quiet
+Afternoon,3/30/2026 14:14,Commons,53.1,Indoor,Quiet
+Afternoon,3/30/2026 14:22,Commons,50.4,Indoor,Quiet
+Afternoon,3/30/2026 14:26,Albin O. Kuhn Library,63.3,Indoor,Moderate
+Afternoon,3/30/2026 14:27,Outside Retriever Activities Center,65.1,Outdoor,Moderate
+Afternoon,3/30/2026 14:28,Commons,64.7,Indoor,Moderate
+Afternoon,3/30/2026 14:28,Outside Retriever Activities Center,51.7,Outdoor,Quiet
+Afternoon,3/30/2026 14:32,Outside Retriever Activities Center,65,Outdoor,Moderate
+Afternoon,3/30/2026 14:33,Outside Retriever Activities Center,78.1,Outdoor,Loud
+Afternoon,3/30/2026 14:39,Albin O. Kuhn Library,39.9,Indoor,Quiet
+Afternoon,3/30/2026 14:40,University Center,54.5,Indoor,Moderate
+Afternoon,3/30/2026 14:43,ITE Building,51.3,Indoor,Quiet
+Afternoon,3/30/2026 14:47,Albin O. Kuhn Library,57.4,Indoor,Moderate
+Afternoon,3/30/2026 14:49,Albin O. Kuhn Library,55.4,Indoor,Moderate
+Afternoon,3/30/2026 14:55,ITE Building,59.2,Indoor,Moderate
+Afternoon,3/30/2026 14:56,ITE Building,44.4,Indoor,Quiet
+Afternoon,3/30/2026 14:58,University Center,63.1,Outdoor,Moderate
+Afternoon,3/30/2026 15:00,Commons,45.1,Indoor,Quiet
+Afternoon,3/30/2026 15:17,Albin O. Kuhn Library,70.1,Indoor,Loud
+Afternoon,3/30/2026 15:18,Albin O. Kuhn Library,57.7,Indoor,Moderate
+Afternoon,3/30/2026 15:24,Commons,73.8,Outdoor,Loud
+Afternoon,3/30/2026 15:25,Commons,55,Indoor,Quiet
+Afternoon,3/30/2026 15:27,Outside Retriever Activities Center,55,Outdoor,Quiet
+Afternoon,3/30/2026 15:31,Outside Retriever Activities Center,53.5,Outdoor,Quiet
+Afternoon,3/30/2026 15:42,Albin O. Kuhn Library,53,Indoor,Moderate
+Afternoon,3/30/2026 15:45,Outside Retriever Activities Center,68.8,Outdoor,Moderate
+Afternoon,3/30/2026 15:47,University Center,49.1,Indoor,Quiet
+Afternoon,3/30/2026 15:59,Albin O. Kuhn Library,45.8,Indoor,Quiet
+Afternoon,3/30/2026 15:59,Commons,63.4,Indoor,Moderate
+Afternoon,3/30/2026 15:59,Commons,48.3,Indoor,Quiet
