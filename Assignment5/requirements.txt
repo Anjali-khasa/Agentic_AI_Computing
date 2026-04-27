@@ -1,0 +1,22 @@
+# Core scientific stack
+scipy>=1.10
+matplotlib>=3.7
+Pillow>=9.5
+tqdm>=4.65
+scikit-learn>=1.3
+
+#  Deep learning (PyTorch + torchvision) 
+torch>=2.0
+torchvision>=0.15
+
+# Video generation 
+moviepy>=1.0.3
+imageio>=2.31
+imageio-ffmpeg>=0.4.9
+
+# Audio
+# scipy.io.wavfile is used (already givem above), no extra package needed
+
+# Optional 
+notebook>=7.0   
+seaborn>=0.12
